@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruvahere
+- 👋 Hi, I’m Dhruva Gadiparthi
 - 👀 I’m interested in Deep Learning and Biotechnology
 - 🌱 I’m currently learning how to construct Deep CNN Neural Networks
 - 📫 How to reach me: dhruva.gadiparthi@gmail.com
