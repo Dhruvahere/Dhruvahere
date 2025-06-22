@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruva Gadiparthi
-- 👀 I’m interested in Deep Learning and Biotechnology
-- 🌱 I’m currently learning how to construct Deep CNN Neural Networks
+- 👀 I’m interested in Theoretical Biology and History
+- 🌱 I’m currently learning Transformers, Graph Isomorphism Networks, and U-Net
 - 📫 How to reach me: dhruva.gadiparthi@gmail.com
 - 😄 Pronouns: They/Them or He/Him
 - ⚡ Fun fact: My favourite Chemical Compound is Chromyl Chloride!
